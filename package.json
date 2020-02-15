@@ -1,0 +1,14 @@
+{
+  "name": "AbstractHTTP-JavaScript",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kibaan/AbstractHTTP-JavaScript.git"
+  },
+  "author": "altonotes Inc.",
+  "license": "© 2019 altonotes Inc.",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webserver": "^0.9.1"
+  }
+}
