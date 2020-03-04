@@ -1,5 +1,4 @@
 import Response from "../entity/response";
-import ConnectionError from "../entity/connection-error";
 
 export default class DefaultHttpConnector {
 
